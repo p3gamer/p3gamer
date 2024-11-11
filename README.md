@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Unreal 5, UEFN, Vue related projects.
+- 🌱 I’m currently learning Niagara VFX.
+
 <!--
 **p3gamer/p3gamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
