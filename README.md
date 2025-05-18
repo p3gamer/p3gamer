@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Unreal 5, UEFN, Vue, React related projects.
+- 🔭 I’m currently working on Unreal 5, UEFN, Java, React related projects.
 - 🌱 I’m currently learning Niagara VFX.
 
 <!--
